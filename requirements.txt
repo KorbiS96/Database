@@ -1,0 +1,6 @@
+dash
+plotly
+dash_bootstrap_components
+Pillow
+pandas
+gunicorn
